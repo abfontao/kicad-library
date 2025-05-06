@@ -1,0 +1,35 @@
+# KiCad backup files
+*.bak
+*.tmp
+*~
+
+# User-specific configuration
+fp-info-cache
+sym-lib-table
+fp-lib-table
+eeschema-*.json
+pcbnew-*.json
+
+# Project files (not part of a generic library)
+*.kicad_pro
+*.kicad_sch
+*.kicad_pcb
+*.kicad_prl
+*.kicad_dru
+*.kicad_wks
+*.net
+*.xml
+
+# Cache and autosave files
+*.cache
+*.bak
+autosave-*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python bytecode if any scripts exist
+__pycache__/
+*.py[cod]
