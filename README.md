@@ -10,12 +10,11 @@ This library serves as a unified, version-controlled collection of components ta
 
 ```text
 kicad-library/
-├── symbols/
-│   └── *.kicad_sym
-├── footprints/
+├── *.kicad_sym
+├── *.pretty/
 │   └── *.kicad_mod
 │   └── 3dmodels/
-│	   └── *.step / *.wrl
+│       └── *.step / *.wrl
 └── .gitignore
 ```
  
