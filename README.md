@@ -1,18 +1,24 @@
 # 📐 KiCAD Symbols & Footprints Library – Microelectronics Design Center @ ETH Zurich
 
-Welcome to the official repository for **KiCAD-compatible symbols and footprints** developed and curated at the [Microelectronics Design Center] (http://www.dz.ethz.ch/) of the Department of Information Technology and Electrical Engineering (D-ITET), ETH Zurich.
+Welcome to the official repository for **KiCAD-compatible symbols and footprints** developed and curated at the [Microelectronics Design Center](http://www.dz.ethz.ch/) of the Department of Information Technology and Electrical Engineering (D-ITET), ETH Zurich.
 
 This library serves as a unified, version-controlled collection of components tailored for schematic and PCB design workflows at the Microelectronics Design Center and related research projects.
 
 ---
 
-## 🧩 Repository Structure
+## 📁 Repository Structure
 
+```text
 kicad-library/
-├── symbols/ # KiCAD schematic symbols
-├── footprints/ # PCB footprints (modules)
-	├── 3dmodels/ # Optional 3D models (STEP, VRML)
-
+├── symbols/
+│   └── kicad_sym
+├── footprints/
+│   └── kicad_mod
+│   └── 3dmodels/
+│	   └── *.step / *.wrl
+└── .gitignore
+```
+ 
 ---
 
 ## 🎯 Objectives
