@@ -478,19 +478,6 @@
 		(layer "User.1")
 		(uuid "d5fcb06c-1e67-4589-ae6e-ea2a3fbfa258")
 	)
-	(fp_text user "LATCH"
-		(at -2.75 15.8725 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "30c6cd4e-7fec-4b66-b842-abce54f071b3")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
 	(fp_text user "-0.000"
 		(at 5.588 4.401875 0)
 		(unlocked yes)
