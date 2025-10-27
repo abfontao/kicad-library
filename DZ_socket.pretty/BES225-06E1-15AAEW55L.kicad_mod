@@ -50,6 +50,7 @@
 			)
 		)
 	)
+	(attr allow_soldermask_bridges)
 	(fp_poly
 		(pts
 			(xy 11 -11) (xy 11 11) (xy -11.00001 11) (xy -11.00001 -11)
