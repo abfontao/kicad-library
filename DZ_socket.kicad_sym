@@ -41423,7 +41423,7 @@
 		(symbol "Flamingo_1_0"
 			(rectangle
 				(start 0 0)
-				(end 48.26 -143.51)
+				(end 48.26 -137.16)
 				(stroke
 					(width 0.0254)
 					(type solid)
@@ -41884,7 +41884,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -88.9 0)
+				(at -5.08 -82.55 0)
 				(length 5.08)
 				(name "alink_phy_clk_ref"
 					(effects
@@ -41902,7 +41902,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -91.44 0)
+				(at -5.08 -85.09 0)
 				(length 5.08)
 				(name "alink_phy_clk_fwd_in"
 					(effects
@@ -41920,7 +41920,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -93.98 0)
+				(at -5.08 -87.63 0)
 				(length 5.08)
 				(name "alink_phy_clk_fwd_out"
 					(effects
@@ -41938,7 +41938,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -96.52 0)
+				(at -5.08 -90.17 0)
 				(length 5.08)
 				(name "alink_phy_clk_byp"
 					(effects
@@ -41956,7 +41956,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -100.33 0)
+				(at -5.08 -93.98 0)
 				(length 5.08)
 				(name "alink_phy_ICP"
 					(effects
@@ -41974,7 +41974,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -102.87 0)
+				(at -5.08 -96.52 0)
 				(length 5.08)
 				(name "alink_phy_IDLL"
 					(effects
@@ -41992,7 +41992,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -105.41 0)
+				(at -5.08 -99.06 0)
 				(length 5.08)
 				(name "alink_phy_IDSQ"
 					(effects
@@ -42010,7 +42010,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -109.22 0)
+				(at -5.08 -102.87 0)
 				(length 5.08)
 				(name "alink_phy_pll_out_p"
 					(effects
@@ -42028,7 +42028,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -111.76 0)
+				(at -5.08 -105.41 0)
 				(length 5.08)
 				(name "alink_phy_pll_out_m"
 					(effects
@@ -42046,7 +42046,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -115.57 0)
+				(at -5.08 -109.22 0)
 				(length 5.08)
 				(name "alink_phy_tx"
 					(effects
@@ -42064,7 +42064,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -118.11 0)
+				(at -5.08 -111.76 0)
 				(length 5.08)
 				(name "alink_phy_rx"
 					(effects
@@ -42082,7 +42082,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -121.92 0)
+				(at -5.08 -115.57 0)
 				(length 5.08)
 				(name "alink_phy_scan_clk_p"
 					(effects
@@ -42100,7 +42100,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -124.46 0)
+				(at -5.08 -118.11 0)
 				(length 5.08)
 				(name "alink_phy_scan_clk_m"
 					(effects
@@ -42118,7 +42118,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -127 0)
+				(at -5.08 -120.65 0)
 				(length 5.08)
 				(name "alink_phy_scan_din"
 					(effects
@@ -42136,7 +42136,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -129.54 0)
+				(at -5.08 -123.19 0)
 				(length 5.08)
 				(name "alink_phy_scan_dout"
 					(effects
@@ -42154,7 +42154,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -132.08 0)
+				(at -5.08 -125.73 0)
 				(length 5.08)
 				(name "alink_phy_scan_load"
 					(effects
@@ -42172,7 +42172,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -134.62 0)
+				(at -5.08 -128.27 0)
 				(length 5.08)
 				(name "alink_phy_scan_load_chip"
 					(effects
@@ -42190,7 +42190,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -138.43 0)
+				(at -5.08 -132.08 0)
 				(length 5.08)
 				(name "alink_training_in"
 					(effects
@@ -42208,7 +42208,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -140.97 0)
+				(at -5.08 -134.62 0)
 				(length 5.08)
 				(name "alink_training_out"
 					(effects
@@ -42246,42 +42246,6 @@
 			(pin passive line
 				(at 53.34 -7.62 180)
 				(length 5.08)
-				(name "lpddr_clk_sel_0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AF22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 53.34 -10.16 180)
-				(length 5.08)
-				(name "lpddr_clk_sel_1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AF23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 53.34 -13.97 180)
-				(length 5.08)
 				(name "lpddr_phy_bypass_clk"
 					(effects
 						(font
@@ -42298,7 +42262,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -17.78 180)
+				(at 53.34 -11.43 180)
 				(length 5.08)
 				(name "lpddr_dfi_ana_clk_src"
 					(effects
@@ -42316,7 +42280,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -21.59 180)
+				(at 53.34 -15.24 180)
 				(length 5.08)
 				(name "lpddr_dfi_clk_src"
 					(effects
@@ -42334,7 +42298,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -25.4 180)
+				(at 53.34 -19.05 180)
 				(length 5.08)
 				(name "lpddr_phy_zn"
 					(effects
@@ -42352,7 +42316,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -27.94 180)
+				(at 53.34 -21.59 180)
 				(length 5.08)
 				(name "lpddr_phy_zn_sense"
 					(effects
@@ -42370,7 +42334,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -31.75 180)
+				(at 53.34 -25.4 180)
 				(length 5.08)
 				(name "lpddr_jtag_tck"
 					(effects
@@ -42388,7 +42352,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -34.29 180)
+				(at 53.34 -27.94 180)
 				(length 5.08)
 				(name "lpddr_jtag_tdi"
 					(effects
@@ -42406,7 +42370,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -36.83 180)
+				(at 53.34 -30.48 180)
 				(length 5.08)
 				(name "lpddr_jtag_tdo"
 					(effects
@@ -42424,7 +42388,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -39.37 180)
+				(at 53.34 -33.02 180)
 				(length 5.08)
 				(name "lpddr_jtag_tms"
 					(effects
@@ -42442,7 +42406,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -41.91 180)
+				(at 53.34 -35.56 180)
 				(length 5.08)
 				(name "lpddr_jtag_trst_n"
 					(effects
@@ -42460,7 +42424,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -44.45 180)
+				(at 53.34 -38.1 180)
 				(length 5.08)
 				(name "lpddr_phy_alert_n"
 					(effects
@@ -42478,7 +42442,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -48.26 180)
+				(at 53.34 -41.91 180)
 				(length 5.08)
 				(name "lpddr_phy_CK_c"
 					(effects
@@ -42496,7 +42460,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -50.8 180)
+				(at 53.34 -44.45 180)
 				(length 5.08)
 				(name "lpddr_phy_CK_t"
 					(effects
@@ -42514,7 +42478,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -54.61 180)
+				(at 53.34 -48.26 180)
 				(length 5.08)
 				(name "lpddr_phy_CA0"
 					(effects
@@ -42532,7 +42496,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -57.15 180)
+				(at 53.34 -50.8 180)
 				(length 5.08)
 				(name "lpddr_phy_CA1"
 					(effects
@@ -42550,7 +42514,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -59.69 180)
+				(at 53.34 -53.34 180)
 				(length 5.08)
 				(name "lpddr_phy_CA2"
 					(effects
@@ -42568,7 +42532,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -62.23 180)
+				(at 53.34 -55.88 180)
 				(length 5.08)
 				(name "lpddr_phy_CA3"
 					(effects
@@ -42586,7 +42550,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -64.77 180)
+				(at 53.34 -58.42 180)
 				(length 5.08)
 				(name "lpddr_phy_CA4"
 					(effects
@@ -42604,7 +42568,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -67.31 180)
+				(at 53.34 -60.96 180)
 				(length 5.08)
 				(name "lpddr_phy_CA5"
 					(effects
@@ -42622,7 +42586,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -71.12 180)
+				(at 53.34 -64.77 180)
 				(length 5.08)
 				(name "lpddr_phy_CKE0"
 					(effects
@@ -42640,7 +42604,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -73.66 180)
+				(at 53.34 -67.31 180)
 				(length 5.08)
 				(name "lpddr_phy_CKE1"
 					(effects
@@ -42658,7 +42622,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -77.47 180)
+				(at 53.34 -71.12 180)
 				(length 5.08)
 				(name "lpddr_phy_CS0"
 					(effects
@@ -42676,7 +42640,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -80.01 180)
+				(at 53.34 -73.66 180)
 				(length 5.08)
 				(name "lpddr_phy_CS1"
 					(effects
@@ -42694,7 +42658,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -83.82 180)
+				(at 53.34 -77.47 180)
 				(length 5.08)
 				(name "lpddr_phy_DMI0"
 					(effects
@@ -42712,7 +42676,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -86.36 180)
+				(at 53.34 -80.01 180)
 				(length 5.08)
 				(name "lpddr_phy_DMI1"
 					(effects
@@ -42730,7 +42694,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -90.17 180)
+				(at 53.34 -83.82 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ0"
 					(effects
@@ -42748,7 +42712,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -92.71 180)
+				(at 53.34 -86.36 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ1"
 					(effects
@@ -42766,7 +42730,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -95.25 180)
+				(at 53.34 -88.9 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ2"
 					(effects
@@ -42784,7 +42748,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -97.79 180)
+				(at 53.34 -91.44 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ3"
 					(effects
@@ -42802,7 +42766,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -100.33 180)
+				(at 53.34 -93.98 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ4"
 					(effects
@@ -42820,7 +42784,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -102.87 180)
+				(at 53.34 -96.52 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ5"
 					(effects
@@ -42838,7 +42802,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -105.41 180)
+				(at 53.34 -99.06 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ6"
 					(effects
@@ -42856,7 +42820,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -107.95 180)
+				(at 53.34 -101.6 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ7"
 					(effects
@@ -42874,7 +42838,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -110.49 180)
+				(at 53.34 -104.14 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ8"
 					(effects
@@ -42892,7 +42856,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -113.03 180)
+				(at 53.34 -106.68 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ9"
 					(effects
@@ -42910,7 +42874,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -115.57 180)
+				(at 53.34 -109.22 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ10"
 					(effects
@@ -42928,7 +42892,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -118.11 180)
+				(at 53.34 -111.76 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ11"
 					(effects
@@ -42946,7 +42910,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -120.65 180)
+				(at 53.34 -114.3 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ12"
 					(effects
@@ -42964,7 +42928,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -123.19 180)
+				(at 53.34 -116.84 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ13"
 					(effects
@@ -42982,7 +42946,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -125.73 180)
+				(at 53.34 -119.38 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ14"
 					(effects
@@ -43000,7 +42964,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -128.27 180)
+				(at 53.34 -121.92 180)
 				(length 5.08)
 				(name "lpddr_phy_DQ15"
 					(effects
@@ -43018,7 +42982,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -132.08 180)
+				(at 53.34 -125.73 180)
 				(length 5.08)
 				(name "lpddr_phy_DQS0_c"
 					(effects
@@ -43036,7 +43000,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -134.62 180)
+				(at 53.34 -128.27 180)
 				(length 5.08)
 				(name "lpddr_phy_DQS0_t"
 					(effects
@@ -43054,7 +43018,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -138.43 180)
+				(at 53.34 -132.08 180)
 				(length 5.08)
 				(name "lpddr_phy_DQS1_c"
 					(effects
@@ -43072,7 +43036,7 @@
 				)
 			)
 			(pin passive line
-				(at 53.34 -140.97 180)
+				(at 53.34 -134.62 180)
 				(length 5.08)
 				(name "lpddr_phy_DQS1_t"
 					(effects
@@ -44583,7 +44547,7 @@
 		(symbol "Flamingo_3_0"
 			(rectangle
 				(start 0 0)
-				(end 21.59 -148.59)
+				(end 26.67 -151.13)
 				(stroke
 					(width 0.0254)
 					(type solid)
@@ -45440,16 +45404,16 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -125.73 0)
+				(at -5.08 -124.46 0)
 				(length 5.08)
-				(name "core_VDD"
+				(name "pcie_ctl_VDD"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "U17"
+				(number "F1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -45458,117 +45422,9 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -128.27 0)
+				(at -5.08 -127 0)
 				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AD22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 -130.81 0)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AC23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 -133.35 0)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AB23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 -135.89 0)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 -138.43 0)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 -140.97 0)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "N17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 -143.51 0)
-				(length 5.08)
-				(name "core_VDD"
+				(name "pcie_ctl_VDD"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -45584,16 +45440,16 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -146.05 0)
+				(at -5.08 -129.54 0)
 				(length 5.08)
-				(name "core_VDD"
+				(name "pcie_ctl_VDD"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "N15"
+				(number "F3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -45602,7 +45458,133 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -3.81 180)
+				(at -5.08 -132.08 0)
+				(length 5.08)
+				(name "pcie_ctl_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -134.62 0)
+				(length 5.08)
+				(name "pcie_ctl_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -138.43 0)
+				(length 5.08)
+				(name "lpddr_ctl_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AA1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -140.97 0)
+				(length 5.08)
+				(name "lpddr_ctl_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AA2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -143.51 0)
+				(length 5.08)
+				(name "lpddr_ctl_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AA3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -146.05 0)
+				(length 5.08)
+				(name "lpddr_ctl_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AA4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -148.59 0)
+				(length 5.08)
+				(name "lpddr_ctl_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AA5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 31.75 -3.81 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45620,7 +45602,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -6.35 180)
+				(at 31.75 -6.35 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45638,7 +45620,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -8.89 180)
+				(at 31.75 -8.89 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45656,7 +45638,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -11.43 180)
+				(at 31.75 -11.43 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45674,7 +45656,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -13.97 180)
+				(at 31.75 -13.97 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45692,7 +45674,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -16.51 180)
+				(at 31.75 -16.51 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45710,7 +45692,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -19.05 180)
+				(at 31.75 -19.05 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45728,7 +45710,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -21.59 180)
+				(at 31.75 -21.59 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45746,7 +45728,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -24.13 180)
+				(at 31.75 -24.13 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45764,7 +45746,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -26.67 180)
+				(at 31.75 -26.67 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45782,7 +45764,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -29.21 180)
+				(at 31.75 -29.21 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45800,7 +45782,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -31.75 180)
+				(at 31.75 -31.75 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45818,7 +45800,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -34.29 180)
+				(at 31.75 -34.29 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45836,7 +45818,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -36.83 180)
+				(at 31.75 -36.83 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45854,7 +45836,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -39.37 180)
+				(at 31.75 -39.37 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45872,7 +45854,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -41.91 180)
+				(at 31.75 -41.91 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45890,7 +45872,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -44.45 180)
+				(at 31.75 -44.45 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45908,7 +45890,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -46.99 180)
+				(at 31.75 -46.99 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45926,7 +45908,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -49.53 180)
+				(at 31.75 -49.53 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45944,7 +45926,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -52.07 180)
+				(at 31.75 -52.07 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45962,7 +45944,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -54.61 180)
+				(at 31.75 -54.61 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -45980,43 +45962,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -57.15 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -59.69 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -62.23 180)
+				(at 31.75 -57.15 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46034,7 +45980,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -64.77 180)
+				(at 31.75 -59.69 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46052,7 +45998,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -67.31 180)
+				(at 31.75 -62.23 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46070,7 +46016,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -69.85 180)
+				(at 31.75 -64.77 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46088,7 +46034,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -72.39 180)
+				(at 31.75 -67.31 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46106,7 +46052,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -74.93 180)
+				(at 31.75 -69.85 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46124,7 +46070,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -77.47 180)
+				(at 31.75 -72.39 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46142,7 +46088,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -80.01 180)
+				(at 31.75 -74.93 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46160,7 +46106,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -82.55 180)
+				(at 31.75 -77.47 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46178,7 +46124,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -85.09 180)
+				(at 31.75 -80.01 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46196,7 +46142,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -87.63 180)
+				(at 31.75 -82.55 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46214,7 +46160,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -90.17 180)
+				(at 31.75 -85.09 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46232,25 +46178,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -92.71 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -95.25 180)
+				(at 31.75 -87.63 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46268,7 +46196,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -97.79 180)
+				(at 31.75 -90.17 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46286,7 +46214,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -100.33 180)
+				(at 31.75 -92.71 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46304,25 +46232,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -102.87 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -105.41 180)
+				(at 31.75 -95.25 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46340,7 +46250,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -107.95 180)
+				(at 31.75 -97.79 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46358,7 +46268,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -110.49 180)
+				(at 31.75 -100.33 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46376,7 +46286,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -113.03 180)
+				(at 31.75 -102.87 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46394,7 +46304,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -115.57 180)
+				(at 31.75 -105.41 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46412,7 +46322,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -118.11 180)
+				(at 31.75 -107.95 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46430,25 +46340,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -120.65 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AA1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -123.19 180)
+				(at 31.75 -110.49 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46466,25 +46358,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -125.73 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AA4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -128.27 180)
+				(at 31.75 -113.03 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46502,7 +46376,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -130.81 180)
+				(at 31.75 -115.57 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46520,25 +46394,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -133.35 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AA3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -135.89 180)
+				(at 31.75 -118.11 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46556,43 +46412,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -138.43 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AA2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -140.97 180)
-				(length 5.08)
-				(name "core_VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AA5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 26.67 -143.51 180)
+				(at 31.75 -120.65 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46610,7 +46430,7 @@
 				)
 			)
 			(pin passive line
-				(at 26.67 -146.05 180)
+				(at 31.75 -123.19 180)
 				(length 5.08)
 				(name "core_VDD"
 					(effects
@@ -46627,11 +46447,155 @@
 					)
 				)
 			)
+			(pin passive line
+				(at 31.75 -125.73 180)
+				(length 5.08)
+				(name "core_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "U17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 31.75 -128.27 180)
+				(length 5.08)
+				(name "core_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AD22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 31.75 -130.81 180)
+				(length 5.08)
+				(name "core_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AC23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 31.75 -133.35 180)
+				(length 5.08)
+				(name "core_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AB23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 31.75 -135.89 180)
+				(length 5.08)
+				(name "core_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 31.75 -138.43 180)
+				(length 5.08)
+				(name "core_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 31.75 -140.97 180)
+				(length 5.08)
+				(name "core_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 31.75 -143.51 180)
+				(length 5.08)
+				(name "core_VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 		)
 		(symbol "Flamingo_4_0"
 			(rectangle
 				(start 0 0)
-				(end 44.45 -74.93)
+				(end 44.45 -71.12)
 				(stroke
 					(width 0.0254)
 					(type solid)
@@ -46858,7 +46822,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -54.61 0)
+				(at -5.08 -50.8 0)
 				(length 5.08)
 				(name "pcie_phy_VP"
 					(effects
@@ -46876,7 +46840,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -57.15 0)
+				(at -5.08 -53.34 0)
 				(length 5.08)
 				(name "pcie_phy_VP"
 					(effects
@@ -46894,7 +46858,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -59.69 0)
+				(at -5.08 -55.88 0)
 				(length 5.08)
 				(name "pcie_phy_VP"
 					(effects
@@ -46912,7 +46876,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -62.23 0)
+				(at -5.08 -58.42 0)
 				(length 5.08)
 				(name "pcie_phy_VP"
 					(effects
@@ -46930,7 +46894,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -64.77 0)
+				(at -5.08 -60.96 0)
 				(length 5.08)
 				(name "pcie_phy_VP"
 					(effects
@@ -46948,7 +46912,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -67.31 0)
+				(at -5.08 -63.5 0)
 				(length 5.08)
 				(name "pcie_phy_VP"
 					(effects
@@ -46966,7 +46930,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -69.85 0)
+				(at -5.08 -66.04 0)
 				(length 5.08)
 				(name "pcie_phy_VP"
 					(effects
@@ -46984,7 +46948,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -72.39 0)
+				(at -5.08 -68.58 0)
 				(length 5.08)
 				(name "pcie_phy_VP"
 					(effects
@@ -47326,7 +47290,7 @@
 				)
 			)
 			(pin passive line
-				(at 49.53 -59.69 180)
+				(at 49.53 -54.61 180)
 				(length 5.08)
 				(name "pcie_phy_VPH"
 					(effects
@@ -47344,7 +47308,7 @@
 				)
 			)
 			(pin passive line
-				(at 49.53 -62.23 180)
+				(at 49.53 -57.15 180)
 				(length 5.08)
 				(name "pcie_phy_VPH"
 					(effects
@@ -47362,7 +47326,7 @@
 				)
 			)
 			(pin passive line
-				(at 49.53 -64.77 180)
+				(at 49.53 -59.69 180)
 				(length 5.08)
 				(name "pcie_phy_VPH"
 					(effects
@@ -47380,7 +47344,7 @@
 				)
 			)
 			(pin passive line
-				(at 49.53 -67.31 180)
+				(at 49.53 -62.23 180)
 				(length 5.08)
 				(name "pcie_phy_VPH"
 					(effects
@@ -47398,7 +47362,7 @@
 				)
 			)
 			(pin passive line
-				(at 49.53 -69.85 180)
+				(at 49.53 -64.77 180)
 				(length 5.08)
 				(name "pcie_phy_VPH"
 					(effects
@@ -47416,7 +47380,7 @@
 				)
 			)
 			(pin passive line
-				(at 49.53 -72.39 180)
+				(at 49.53 -67.31 180)
 				(length 5.08)
 				(name "pcie_phy_VPH"
 					(effects
